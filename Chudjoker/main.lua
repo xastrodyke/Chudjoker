@@ -50,7 +50,7 @@ function Card.remove_from_deck(self, from_debuff)
     if self.added_to_deck then
         if self.ability and self.ability.name == 'j_Chudjoker_Joker' then
             for k, v in pairs(G.GAME.probabilities) do 
-                G.GAME.probabilities[k] = v * v
+                G.GAME.probabilities[k] = v * -1
             end
         end
     end
