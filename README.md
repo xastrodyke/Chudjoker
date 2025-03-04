@@ -9,7 +9,7 @@
 
 ## Installation
 
-download from the big green "Code" button, unzip and place in your mods folder
+download ZIP from the big green "Code" button, unzip and place in your mods folder
 
 
 ## v1.0 ----
