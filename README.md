@@ -7,7 +7,7 @@
 </p>
 
 
-## Installation
+## Installation (requires Steammodded)
 
 download ZIP from the big green "Code" button, unzip and place in your mods folder
 
