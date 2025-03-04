@@ -12,6 +12,15 @@
 download ZIP from the big green "Code" button, unzip and place in your mods folder
 
 
+## v1.0.1 ----
+
+reworks probability by just setting probability to 0 on aqcuirement and setting probability to 1 on card removal
+
+this change WILL break cards with uneven probabilities, but works fine with vanilla cards (i.e. 2 in 3, 5 in 6, etc)
+
+old version that works with modded will still be included as a seperate folder (name "Chudjoker (for Modded")
+
+
 ## v1.0 ----
 
 adds a single joker: "Chudjoker"
