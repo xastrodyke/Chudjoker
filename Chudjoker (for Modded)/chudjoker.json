@@ -1,0 +1,17 @@
+{
+	"id": "chudjoker",
+	"name": "chudjoker",
+	"display_name": "chudjoker",
+	"author": ["Astro"],
+	"description": "Nothing. Ever. Happens.",
+	"prefix": "Chudjoker",
+	"main_file": "main.lua",
+	"priority": -30,
+	"badge_colour": "FF230A",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+"Steamodded (>=1.*)",
+"Lovely (>=0.6)",
+],
+}
