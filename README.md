@@ -1,22 +1,13 @@
 <p align="center">
-  <img src="logo.png" alt="Chudjoker - Because nothing ever happens." style="max-width: 100%; height: auto;">
+  <img src="logo.png" alt="EclipseTextures" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
-  Ever wanted nothing to happen more? Use the new Chudjoker and ensure that nothing will ever happen!
+  <strong>EclipseTextures</strong> aims to give most of Balatro's textures a dark mode makeover, without many changes to the vanilla look.
 </p>
 
 
-##Installation
+## Installation
 
-download from the big green "Code" button, unzip and place in your mods folder
-
-
-v1.0 ----
-
-adds a single joker: "Chudjoker"
-
-Chudjoker causes all listed probabilities to never happen by making them negative
-
-because nothing ever happens.
-
+- Download [here](https://github.com/aleksxar/EclipseTextures/archive/refs/heads/main.zip) or by clicking on the green `Code` button. Note that you need Steamodded to use the mod.
+- While it's not recommended, you can also use the mod without a modloader by replacing the game files manually.
