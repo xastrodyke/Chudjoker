@@ -16,7 +16,7 @@ download ZIP from the big green "Code" button, unzip and place the version you w
 
 adds a single joker: "Chudjoker"
 
-Chudjoker causes all listed probabilities to never happen by making them negative
+Chudjoker causes all listed probabilities to never happen by making them negative (cant set probabilities to 0, wont display as such)
 
 because nothing ever happens.
 
