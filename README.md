@@ -7,7 +7,7 @@
 </p>
 
 
-## Installation (requires Steammodded)
+## Installation (requires Steamodded **1.0.0**)
 
 download ZIP from the big green "Code" button, unzip and place the version you want in your mods folder
 
