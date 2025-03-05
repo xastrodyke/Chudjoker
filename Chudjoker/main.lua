@@ -27,7 +27,7 @@ SMODS.Joker {
     cost = 6,
     unlocked = true, --whether it is unlocked or not
     discovered = true, --whether or not it starts discovered
-    blueprint_compat = true, --can it be blueprinted/brainstormed/other
+    blueprint_compat = false, --can it be blueprinted/brainstormed/other
     eternal_compat = true, --can it be eternal
     perishable_compat = true,
     pos = { x = 0, y = 0 }

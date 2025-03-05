@@ -9,7 +9,12 @@
 
 ## Installation (requires Steamodded **1.0.0**)
 
-download ZIP from the big green "Code" button, unzip and place the version you want in your mods folder
+download ZIP from the big green "Code" button, unzip and place the version you want in your mods folder\
+
+
+## v1.0.1 ----
+
+removed ability to be copied by Blueprint/Brainstorm
 
 
 ## v1.0 ----
